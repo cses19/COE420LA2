@@ -13,10 +13,12 @@ public class COE420LA2 {
 
     public static void addFeatureA()
     {
+        //Prints feature A added
         System.out.println("Feature A added");
     }
      public static void addFeatureB()
     {
+        //Prints feature B added
         System.out.println("Feature B added");
     }
     /**
