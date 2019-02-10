@@ -15,6 +15,10 @@ public class COE420LA2 {
     {
         System.out.println("Feature A added");
     }
+     public static void addFeatureB()
+    {
+        System.out.println("Feature B added");
+    }
     /**
      * @param args the command line arguments
      */
